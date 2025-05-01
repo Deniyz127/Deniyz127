@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Dennis Kariuki Thiongo or you can call me Deniyz
-- 👀 I’m interested in web and system development, cyber security, and Networking.
-- 🌱 I’m currently learning HTML, CSS, Javascript, PHP,MySQL, Java and Python
-- 💞️ I’m looking to collaborate on web development
+- 🌱 I’m currently doing c#, MySQL, Java and Python
+- 💞️ I’m a specialist in cybers security and Digital Infrastructure
 - 📫 How to reach me: email me at:dennis254kariuki@gmail.com
 
 <!---
